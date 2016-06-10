@@ -1,6 +1,6 @@
 # _Cryptosquare_
 
-#### By _**Callan **_ & _**Samuel J Park**_
+#### By _**Callan McNulty**_ & _**Olivia Hinton**_
 
 ## Description
 
@@ -11,11 +11,9 @@ The spaces and punctuation are removed from the English text and the characters 
 ## Specs
 | Behavior        | Input           | Outcome  |
 | ------------- |:-------------:| -----:|
-| For words that start with a vowel, add (ay) to end      | apple | appleay |
-| for words that start with 1 consonant, move that consonant to the end, and add "ay"      | computer      |   omputercay |
-| For words that start with two or more consonants, move consecutive consonants to the end and add "ay" | sheet     |    eetshay |
-| For words that start with "qu", move "qu" to the end and add "ay" | quiet     |    ietquay |
-| For words that start with "y", treat "y" as a consonant, move all consonants to the end and add "ay" | young     |    oungyay |
+| Remove spaces and punctuation from user input | don't compare | dontcompare |
+| Put characters into a grid. Use the square root of the number of characters and round up to determine the number of columns the grid should be. To get the message, read down the columns going left to right | don't compare | dcaoornmetp |
+| Add a space after every 5th character | don't compare | dcaoo rnmet p |
 
 ## Setup/Installation Requirements
 
@@ -30,7 +28,6 @@ The spaces and punctuation are removed from the English text and the characters 
 ## Support and contact details
 
 _Olivia Hinton: hinton.olivia@gmail.com_
-__
 
 ## Technologies Used
 
@@ -44,4 +41,4 @@ __
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Mind Your Own Beeswax Inc._**
+Copyright (c) 2016 **_Callan McNulty & Olivia Hinton_**
