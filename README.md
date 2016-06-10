@@ -4,9 +4,9 @@
 
 ## Description
 
-_A classic method for composing secret messages is called a square code.
+_A classic method for composing secret messages is called a square code._
 
-The spaces and punctuation are removed from the English text and the characters are written into a square (or rectangle) and the entire message is downcased._
+_The spaces and punctuation are removed from the English text and the characters are written into a square (or rectangle) and the entire message is downcased._
 
 ## Specs
 | Behavior        | Input           | Outcome  |
